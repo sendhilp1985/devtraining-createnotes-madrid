@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Event Request" max_length="40" name="x_snc_createnotes_event_request" type="collection">
+        <element label="Preferred Date/Time" max_length="40" name="preferred_date_time" type="glide_date_time"/>
+        <element default="200" label="Type of Event" max_length="40" name="type_of_event" type="string"/>
+    </element>
+</database>
