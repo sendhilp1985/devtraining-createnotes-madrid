@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Test Table" max_length="40" name="x_snc_createnotes_test_table" type="collection">
+        <element label="Notes" max_length="100" name="notes" type="string"/>
+    </element>
+</database>
