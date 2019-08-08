@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
         <sc_cat_item display_value="test rp">a1d53647db0333001af97b82399619df</sc_cat_item>
-        <sc_category display_value="CreateNotes">1a87b2c7db0333001af97b823996199c</sc_category>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2019-08-08 15:01:39</sys_created_on>
-        <sys_id>54183ec7db0333001af97b82399619db</sys_id>
+        <sys_created_on>2019-08-08 15:03:12</sys_created_on>
+        <sys_id>8f68b60bdb0333001af97b823996197f</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>CreateNotes.test rp</sys_name>
+        <sys_name>Office.test rp</sys_name>
         <sys_package display_value="CreateNotes" source="x_snc_createnotes">df5fd9a5090232007f44e1046c8ff69f</sys_package>
         <sys_policy/>
         <sys_scope display_value="CreateNotes">df5fd9a5090232007f44e1046c8ff69f</sys_scope>
-        <sys_update_name>sc_cat_item_category_54183ec7db0333001af97b82399619db</sys_update_name>
+        <sys_update_name>sc_cat_item_category_8f68b60bdb0333001af97b823996197f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-08-08 15:01:39</sys_updated_on>
+        <sys_updated_on>2019-08-08 15:03:12</sys_updated_on>
     </sc_cat_item_category>
 </record_update>
